@@ -1,0 +1,27 @@
+h1{
+    text-decoration:underline;
+    color:#13a3eb;
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-family: 'Lobster Two', cursive;
+    color:#28bd1e;
+    text-decoration:underline;
+}
+body{
+    background-color:#ffb9c5;
+
+}
+.questionone{
+    border-color:black;
+}
+.questiontwo{
+    border-color:black;
+}
+.questionthree{
+    border-color:black;
+}
+button{
+    border-color:black;
+
+}
